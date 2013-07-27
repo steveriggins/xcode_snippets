@@ -6,7 +6,9 @@ This repository stores Xcode snippets that I use on a daily basis.
 installation
 ============
 
-Copy the snippet files into ~/Library/Developer/Xcode/UserData/CodeSnippets/
+Copy and flatten the snippet files into ~/Library/Developer/Xcode/UserData/CodeSnippets/
+
+Do not copy the folders into the CodeSnippets folder, just the .codesnippet files themselves.
 
 weakify_strongify_snippets
 ==========================
